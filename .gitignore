@@ -1,0 +1,17 @@
+# Dependency directories
+/node_modules
+/pnpm-store
+/.pnp
+.pnp.js
+
+# dotenv environment variable files
+.env
+
+# Compiled TypeScript
+/dist
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
